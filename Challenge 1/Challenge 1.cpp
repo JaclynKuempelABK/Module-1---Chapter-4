@@ -13,4 +13,3 @@ int main()
 
     std::cout << "The biggest number in the array is: " << biggestNum;
 }
-
